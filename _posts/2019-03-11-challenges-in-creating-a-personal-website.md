@@ -13,7 +13,7 @@ author: silvadenis
 description: A brief description on the challenges of a personal website
 ---
 
-### Have you ever tought how hard it is to build a personal website for you ?
+### Have you ever thought how hard it is to build a personal website for you ?
 
 During the past weeks I have been working on my online presence to show a little bit more about my work, skills and also to *engage more with the software development communities*.
 
