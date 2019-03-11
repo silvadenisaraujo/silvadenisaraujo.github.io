@@ -3,7 +3,7 @@ title: Challenges creating a personal website
 layout: post
 date: 2019-03-11 14:42
 image: /assets/images/personal-branding-1-759x500.jpg
-headerImage: false
+headerImage: true
 tag:
 - portfolio
 - self-branding
