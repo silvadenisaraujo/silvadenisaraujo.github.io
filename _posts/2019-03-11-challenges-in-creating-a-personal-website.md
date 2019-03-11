@@ -17,9 +17,9 @@ description: A brief description on the challenges of a personal website
 
 During the past weeks I have been working on my online presence to show a little bit more about my work, skills and also to *engage more with the software development communities*.
 
-So I looked in the internet for some good portfolios in Medium and so on and everytime that I looked for a portfolio I saw some amazing effects,  colorful, stunning design portfolios and I tought how could I do something for me that would be more simple ?
+So I looked in the internet for some good portfolios in Medium and so on and everytime that I looked for a portfolio I saw some amazing effects,  colorful, stunning design portfolios and I tought how could I do something for me that would be simpler ?
 
-By the way, I'm a backend engineer and love how the bits and bytes works but unfortunatelly I don't have the gift of doing some beautiful designs !
+By the way, I'm a engineer and love how the bits and bytes works but unfortunatelly I don't have the gift of doing some beautiful designs!
 
 And then, during my readings I reached to this article in Medium that helped a lot, so I recommend you to read: [A Software Engineer’s One-Page Portfolio by Chuck Groom](https://medium.com/@cgroom/a-software-engineers-one-page-portfolio-4f85ab8a20d1)
 
