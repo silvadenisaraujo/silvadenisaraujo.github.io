@@ -1,9 +1,9 @@
 # main text of home
 name: Dênis Araújo da Silva
-bio: I'm a computer engineer who loves working with products that impacts people's lives.
+bio: An engineer that thinks as a designer
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and my thoughts
 
 # if it's an external image, update below for true
 # better with square images
@@ -21,7 +21,7 @@ url: http://silvadenisaraujo.github.io
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: 'UA-135961413-1'
+analytics-google: "UA-135961413-1"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -29,8 +29,8 @@ analytics-google: 'UA-135961413-1'
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname:
-  categories:
+    shortname:
+    categories:
 
 # if you don't have any of social below, comment the line
 #facebook: myfacebook
@@ -55,7 +55,7 @@ email: silvadenisaraujo@gmail.com
 authors:
     silvadenis:
         name: Dênis Araújo da Silva
-        bio: A passionated computer engineer!
+        bio: An engineer that thinks as a designer
         external-image: false
         picture: assets/images/profile.jpeg
 
@@ -94,11 +94,11 @@ show-author: true
 animation: true
 
 plugins:
-  - jekyll-seo-tag
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-admin
+    - jekyll-seo-tag
+    - jekyll-gist
+    - jekyll-feed
+    - jemoji
+    - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
@@ -106,7 +106,8 @@ jekyll-mentions:
 compress_html:
     ignore:
         envs:
-        - development
-        - stage
+            - development
+            - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+exclude:
+    ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
