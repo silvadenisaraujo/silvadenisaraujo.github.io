@@ -11,6 +11,6 @@ layout: page
 
 <p>During graduation I've done two scientific projects in Software Engineering and Optical Fibers and I still have this with me, the passion of keep learning! <b>And then if you mix all of my experiences, a litle bit from my parents, my wife, my friends and my dogs you will know more about myself.</b></p>
 
-<p>Currently I'm doing a Masters degree in Digital Management at Hyper Island - Stockholm, doing my best and learning that seeing the world as a designer enables to create solutions that I have never thought because <strong>it is all about people</strong>.</p>
+<p>I did a Masters degree in Digital Management at Hyper Island - Stockholm, learning that seeing the world as a designer enables to create solutions that I have never thought because <strong>it is all about people</strong>.</p>
 
 <p>I'm always looking for new adventures, meeting new people and working with amazing projects.</p>

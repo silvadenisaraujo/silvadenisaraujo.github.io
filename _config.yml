@@ -1,6 +1,6 @@
 # main text of home
 name: Dênis Araújo da Silva
-bio: An engineer that thinks as a designer
+bio: Computer Engineer with a Master's in Digital Management
 
 # twitter summary info
 description: A blog about technology and my thoughts
@@ -12,16 +12,16 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: false
+resume: true
 resume-external: true
-resume-url:
+resume-url: https://www.canva.com/design/DAF16kHfBEs/5KeS06qhRCzgegiALsWZBw/view?utm_content=DAF16kHfBEs&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 url: http://silvadenisaraujo.github.io
 
 permalink: /:title/
 
 # To enable google analytics, supply your token below
-analytics-google: "UA-135961413-1"
+analytics-google: "G-F3ZMBPPS91"
 
 # To enable piwik tracking, supply your url & site ID below
 # analytics-piwik-url: 'piwik.my-host.com'
@@ -33,29 +33,13 @@ disqus:
     categories:
 
 # if you don't have any of social below, comment the line
-#facebook: myfacebook
-#twitter: mytwitter
-# google: mygoogle
-# instagram: myinstagram
-# pinterest: mypinterest
 linkedin: silvadenisaraujo
-# youtube: myyoutube
-# spotify: myspotify
 github: silvadenisaraujo
-# gitlab: mygitlab
-# lastfm: mylastfm
-# stackoverflow: 7044681/mystackoverflow
-# quora: userquora
-# reddit: username
-medium: denisaraujodasilva
-# vimeo: myvimeo
-# lanyrd: mylanyrd
-email: silvadenisaraujo@gmail.com
 
 authors:
     silvadenis:
         name: Dênis Araújo da Silva
-        bio: An engineer that thinks as a designer
+        bio: Computer Engineer with a Master's in Digital Management
         external-image: false
         picture: assets/images/profile.jpg
 
