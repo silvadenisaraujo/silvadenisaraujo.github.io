@@ -7,7 +7,7 @@ headerImage: true
 tag:
 - portfolio
 - self-branding
-star: true
+star: false
 category: blog
 author: silvadenis
 description: A brief description on the challenges of a personal website

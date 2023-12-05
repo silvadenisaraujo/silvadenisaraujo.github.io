@@ -8,7 +8,7 @@ tag:
     - design
     - masters
     - thoughts
-star: true
+star: false
 category: blog
 author: silvadenis
 description: My thoughts on the ending process on charger cables
